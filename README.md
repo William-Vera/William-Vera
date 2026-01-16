@@ -17,7 +17,7 @@
 
 Soy un desarrollador de software apasionado por crear aplicaciones que generen un impacto real. Mi experiencia abarca desde el desarrollo de aplicaciones web y móviles hasta la integración de Inteligencia Artificial en soluciones innovadoras. Me especializo en construir productos tecnológicos que mejoren procesos y la experiencia del usuario final.
 
-Soy **Ingenierío de Software** en la Universidad Técnica Estatal de Quevedo, y he complementado mi formación con programas especializados como Samsung Innovation Campus en Python e Inteligencia Artificial.
+Soy **Ingeniero de Software** en la Universidad Técnica Estatal de Quevedo, y he complementado mi formación con programas especializados como Samsung Innovation Campus en Python e Inteligencia Artificial.
 
 
 ---
