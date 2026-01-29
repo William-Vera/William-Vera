@@ -72,8 +72,7 @@ Aplicación móvil innovadora que utiliza Inteligencia Artificial generativa par
 - ✨ Generación de pictocuentos con IA
 - 🎮 Actividades interactivas personalizadas
 - 🔊 Configuración de voz y accesibilidad
-- 🖼️ Manejo eficiente de imágenes locales y en red
-- ♿ Diseño centrado en la inclusión
+- 🖼️ Manejo de imágenes locales y en red
 
 ---
 
