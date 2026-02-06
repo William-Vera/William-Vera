@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### 💻 Desarrollador de Software | 🤖 Entusiasta de la IA | 📱 Creador de soluciones tecnológicas
+  ### Desarrollador de Software | Entusiasta de la IA | Creador de soluciones tecnológicas
   
   📍 El Empalme, Guayas, Ecuador
   
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy un desarrollador de software apasionado por crear aplicaciones que generen un impacto real. Mi experiencia abarca desde el desarrollo de aplicaciones web y móviles hasta la integración de Inteligencia Artificial en soluciones innovadoras. Me especializo en construir productos tecnológicos que mejoren procesos y la experiencia del usuario final.
 
@@ -22,7 +22,7 @@ Soy **Ingeniero de Software** en la Universidad Técnica Estatal de Quevedo, y h
 
 ---
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 ### Lenguajes de programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,9 +49,9 @@ Soy **Ingeniero de Software** en la Universidad Técnica Estatal de Quevedo, y h
 
 ---
 
-## 💼 Experiencia profesional
+## Experiencia
 
-### 🏛️ Asistente de tecnologías de la información
+### 🏛️ Asistente de TIC
 **Dirección Distrital 09D15 El Empalme – MIES** | 2024
 
 - Gestión de usuarios, permisos y datos en plataformas gubernamentales
@@ -61,7 +61,7 @@ Soy **Ingeniero de Software** en la Universidad Técnica Estatal de Quevedo, y h
 
 ---
 
-## 🌟 Proyectos destacados
+## Proyectos destacados
 
 ### 📱 PictoGo
 > **Tecnologías:** Flutter, IA Generativa
@@ -69,25 +69,25 @@ Soy **Ingeniero de Software** en la Universidad Técnica Estatal de Quevedo, y h
 Aplicación móvil innovadora que utiliza Inteligencia Artificial generativa para crear pictocuentos, diseñada para apoyar procesos de aprendizaje en personas con discapacidad intelectual.
 
 **Características principales:**
-- ✨ Generación de pictocuentos con IA
-- 🎮 Actividades interactivas personalizadas
-- 🔊 Configuración de voz y accesibilidad
-- 🖼️ Manejo de imágenes locales y en red
+- Generación de pictocuentos con IA
+- Actividades interactivas personalizadas
+- Configuración de voz y accesibilidad
+- Manejo de imágenes locales y en red
 
 ---
 
-## 📚 Formación & Certificaciones
+## Formación & Certificaciones
 
 🎓 **Ingeniería de Software - TIC**  
 Universidad Técnica Estatal de Quevedo
 
-🏅 **Samsung Innovation Campus** - Python e Inteligencia Artificial (2025)
+**Samsung Innovation Campus** - Python e Inteligencia Artificial (2025)
 - Análisis y procesamiento de datos
 - Aplicaciones prácticas de IA
 
 ---
 
-## 💬 Hablemos
+## Hablemos
 
 ¿Tienes un proyecto en mente? ¿Quieres colaborar? ¡No dudes en contactarme!
 
@@ -95,11 +95,3 @@ Universidad Técnica Estatal de Quevedo
 💼 **LinkedIn:** www.linkedin.com/in/william-verae 
 
 ---
-
-<div align="center">
-  
-  ### 💭 Filosofía de trabajo
-  
-  *"Cada línea de código es una oportunidad para crear un impacto positivo."*
-  
-</div>
