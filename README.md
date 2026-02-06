@@ -51,7 +51,7 @@ Soy **Ingeniero de Software** en la Universidad Técnica Estatal de Quevedo, y h
 
 ## Experiencia
 
-### 🏛️ Asistente de TIC
+### Asistente de TIC
 **Dirección Distrital 09D15 El Empalme – MIES** | 2024
 
 - Gestión de usuarios, permisos y datos en plataformas gubernamentales
@@ -78,7 +78,7 @@ Aplicación móvil innovadora que utiliza Inteligencia Artificial generativa par
 
 ## Formación & Certificaciones
 
-🎓 **Ingeniería de Software - TIC**  
+🎓 **Ingeniería de Software - TIC** - 2025
 Universidad Técnica Estatal de Quevedo
 
 **Samsung Innovation Campus** - Python e Inteligencia Artificial (2025)
