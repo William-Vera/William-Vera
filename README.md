@@ -65,7 +65,7 @@ Soy un desarrollador de software apasionado por crear aplicaciones que generen u
 ### 📱 PictoGo
 > **Tecnologías:** Flutter, IA Generativa
 
-Aplicación móvil innovadora que utiliza Inteligencia Artificial generativa para crear pictocuentos, diseñada para apoyar procesos de aprendizaje en personas con discapacidad intelectual.
+Aplicación móvil innovadora que utiliza pictocuentos creados con inteligencia artificial, diseñada para apoyar procesos de aprendizaje en personas con discapacidad intelectual.
 
 **Características principales:**
 - Generación de pictocuentos con IA
