@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### 👋 ¡Hola! Soy William Vera
+  # 👋 ¡Hola! Soy William Vera
   
 </div>
 
