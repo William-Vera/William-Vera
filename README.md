@@ -78,7 +78,7 @@ Aplicación móvil innovadora que utiliza Inteligencia Artificial generativa par
 
 ## Formación & Certificaciones
 
-🎓 **Ingeniería de Software - TIC** - 2025
+🎓 **Ingeniería de Software - TIC** - 2025  
 Universidad Técnica Estatal de Quevedo
 
 **Samsung Innovation Campus** - Python e Inteligencia Artificial (2025)
