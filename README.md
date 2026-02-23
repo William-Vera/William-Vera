@@ -52,18 +52,6 @@ Soy un desarrollador de software apasionado por crear aplicaciones que generen u
 
 ---
 
-## Experiencia
-
-### Asistente de TIC
-**Dirección Distrital 09D15 El Empalme – MIES** | 2024
-
-- Gestión de usuarios, permisos y datos en plataformas gubernamentales
-- Administración de sistemas internos garantizando seguridad e integridad de datos
-- Soporte técnico y mantenimiento de infraestructura tecnológica
-- Documentación de mejoras mediante reportes técnicos
-
----
-
 ## Proyectos destacados
 
 ### 📱 PictoGo
