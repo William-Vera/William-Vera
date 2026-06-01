@@ -52,22 +52,7 @@ Soy un desarrollador de software apasionado por crear aplicaciones que generen u
 
 ---
 
-## Proyectos destacados
-
-### 📱 PictoGo
-> **Tecnologías:** Flutter, IA Generativa
-
-Aplicación móvil innovadora que utiliza pictocuentos creados con inteligencia artificial, diseñada para apoyar procesos de aprendizaje en personas con discapacidad intelectual.
-
-**Características principales:**
-- Generación de pictocuentos con IA
-- Actividades interactivas personalizadas
-- Configuración de voz y accesibilidad
-- Manejo de imágenes locales y en red
-
----
-
-## Formación & Certificaciones
+## Formación & certificaciones
 
 🎓 **Ingeniería de Software - TIC** - 2025  
 Universidad Técnica Estatal de Quevedo
