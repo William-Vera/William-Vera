@@ -78,9 +78,7 @@ Aquí te presento algunas de las tecnologías con las que trabajo:
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=William-Vera&show_icons=true&theme=radical&hide_border=true" alt="William-Vera GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=William-Vera&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Vera&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
