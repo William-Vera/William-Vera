@@ -93,5 +93,5 @@ Aquí te presento algunas de las tecnologías con las que trabajo:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Gracias%20por%20visitar%20mi%20perfil!;Conectemos%20y%20creemos%20algo%20increíble.&font=Fira%20Code&center=true&width=400&height=50&color=f7df1e&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Gracias%20por%20visitar%20mi%20perfil!;Conectemos%40y%40creemos%40algo%40increíble.&font=Fira%20Code&center=true&width=400&height=50&color=f7df1e&vCenter=true&size=22" alt="Typing SVG" />
 </p>
