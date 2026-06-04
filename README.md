@@ -15,11 +15,11 @@ Soy un desarrollador de software apasionado por crear aplicaciones que generen u
 
 ---
 
-## Stack Tecnológico
+## Stack tecnológico
 
 Aquí te presento algunas de las tecnologías con las que trabajo:
 
-### Lenguajes de Programación
+### Lenguajes de programación
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -41,7 +41,7 @@ Aquí te presento algunas de las tecnologías con las que trabajo:
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
 </p>
 
-### Bases de Datos
+### Bases de datos
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
